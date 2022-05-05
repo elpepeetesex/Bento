@@ -147,7 +147,7 @@ const CONFIG = {
 					link: 'https://www.youtube.com/watch?v=ea_UOPzuyZU&t',
 				},
 				{
-					name: 'Future Funl',
+					name: 'Future Funk',
 					link: 'https://www.youtube.com/watch?v=iPFkaKnvdDw&list=PLkDIan7sXW2jdE3wjwOMUTid8Swq-H5w8',
 				},
 				{
