@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com/watch?v=iPFkaKnvdDw&list=PLkDIan7sXW2jdE3wjwOMUTid8Swq-H5w8',
 				},
 				{
-					name: 'Phonk',
-					link: 'https://www.youtube.com/watch?v=6Mt-aPIYiJo&list=PLkDIan7sXW2jVFUQuHerEDMP7reAjyWi2',
+					name: 'Spotify',
+					link: 'https://www.spotify.com/',
 				},
 			],
 		},
