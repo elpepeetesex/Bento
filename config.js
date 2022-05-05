@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'lofi',
+					link: 'https://www.youtube.com/watch?v=E6ZKYrAi8NQ',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Vaporwave',
+					link: 'https://www.youtube.com/watch?v=ea_UOPzuyZU&t',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Future Funl',
+					link: 'https://www.youtube.com/watch?v=iPFkaKnvdDw&list=PLkDIan7sXW2jdE3wjwOMUTid8Swq-H5w8',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Phonk',
+					link: 'https://www.youtube.com/watch?v=6Mt-aPIYiJo&list=PLkDIan7sXW2jVFUQuHerEDMP7reAjyWi2',
 				},
 			],
 		},
@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'WhatsApp',
+					link: 'https://web.whatsapp.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Revolt',
+					link: 'https://revolt.chat/',
 				},
 				{
 					name: 'Trello',
