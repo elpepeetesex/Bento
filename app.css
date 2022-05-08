@@ -26,8 +26,8 @@
 
   /* Light Colors  */
   --accent: #121212; /* Hover color */
-  --background: #0e0e0e; /* Background color */
-  --cards: #0e0e0e; /* Cards color */
+  --background: #e0e0e0; /* Background color */
+  --cards: #e0e0e0; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
