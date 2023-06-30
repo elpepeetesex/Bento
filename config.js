@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Lemmy',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://lemmy.blahaj.zone/',
 		},
 		{
 			id: '6',
